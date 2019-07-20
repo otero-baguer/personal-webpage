@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Daniel Otero Baguer
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD. student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Bremen
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Deep Learning
+- Inverse Problems
 - Information Retrieval
 
 education:
@@ -40,7 +40,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:otero@math.uni-bremen.de" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "otero@math.uni-bremen.de"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Daniel Otero Baguer is a PhD. student at the Center for Industrial Mathematics (ZeTeM) in Bremen. His research interests include deep learning, inverse problems and applied mathematics in general.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
