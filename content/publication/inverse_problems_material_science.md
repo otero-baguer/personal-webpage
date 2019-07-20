@@ -1,6 +1,6 @@
 +++
 title = "Inverse Problems in designing new structural materials"
-date = 23-03-2018
+date = 2018-03-23
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
