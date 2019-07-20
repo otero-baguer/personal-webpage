@@ -44,8 +44,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
-url_code = ""
+url_preprint = "https://arxiv.org/abs/1812.03889"
+url_code = "https://arxiv.org/abs/1812.03889"
 url_dataset = ""
 url_project = ""
 url_slides = ""
