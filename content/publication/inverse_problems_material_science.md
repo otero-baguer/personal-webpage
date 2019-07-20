@@ -1,6 +1,6 @@
 +++
 title = "Inverse Problems in designing new structural materials"
-date = "23.03.2018"
+date = 23-03-2018
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "7th International Conference on High Performance Scientific Computing, 19.03-23.03.2018, Hanoi, Vietnam"
-publication_short = ""
+publication_short = "HPSC 2018"
 
 # Abstract and optional shortened version.
 abstract = ""
