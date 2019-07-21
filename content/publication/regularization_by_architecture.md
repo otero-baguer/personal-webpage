@@ -1,6 +1,6 @@
 +++
 title = "Regularization by architecture: A deep prior approach for inverse problems"
-date = 2018
+date = 2018-12-15
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
