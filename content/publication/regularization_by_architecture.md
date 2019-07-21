@@ -1,10 +1,10 @@
 +++
-title = "Inverse Problems in designing new structural materials"
-date = 2018-03-23
+title = "Regularization by architecture: A deep prior approach for inverse problems"
+date = 2018
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Otero Baguer", "Iwona Piotrowska-Kurczewski", "Peter Maass"]
+authors = ["Soeren Dittmer", "Tobias Kluth", "Peter Maass", "Daniel Otero Baguer"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Daniel Otero Baguer", "Iwona Piotrowska-Kurczewski", "Peter Maass"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "7th International Conference on High Performance Scientific Computing, 19.03-23.03.2018, Hanoi, Vietnam"
-publication_short = "HPSC 2018"
+publication = "arXiv"
+publication_short = "arXiv"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "The present paper studies the so called deep image prior (DIP) technique in the context of inverse problems. DIP networks have been introduced recently for applications in image processing, also first experimental results for applying DIP to inverse problems have been reported. This paper aims at discussing different interpretations of DIP and to obtain analytic results for specific network designs and linear operators. The main contribution is to introduce the idea of viewing these approaches as the optimization of Tiknonov functionals rather than optimizing networks. Besides theoretical results, we present numerical verifications for an academic example (integration operator) as well as for the inverse problem of magnetic particle imaging (MPI). The reconstructions obtained by deep prior networks are compared with state of the art methods."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -44,8 +44,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
-url_code = ""
+url_preprint = "https://arxiv.org/pdf/1812.03889.pdf"
+url_code = "https://github.com/otero-baguer/analytic-deep-prior"
 url_dataset = ""
 url_project = ""
 url_slides = ""
