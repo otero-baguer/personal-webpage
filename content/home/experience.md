@@ -33,12 +33,11 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Course on Deep Learning for Inverse Problems"
+  company = ""
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Marseille"
+  date_start = "2019-11-14"
+  date_end = "2019-11-15"
+  description = """Hands-on sessions with Python and PyTorch: https://oterobaguer.github.io/marseille-course/"""
 +++

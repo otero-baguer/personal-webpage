@@ -24,6 +24,7 @@ interests:
 - Deep Learning
 - Inverse Problems
 - Applied Mathematics
+- Medical Imaging
 
 education:
   courses:
@@ -65,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Daniel Otero Baguer is a PhD. student at the Center for Industrial Mathematics (ZeTeM) in Bremen. His research interests include deep learning, inverse problems and applied mathematics in general.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a PhD. student at the Center for Industrial Mathematics (ZeTeM) in the University of Bremen. I got a Diplom in Computer Science at the University of Havana in 2015. My research interests include deep learning, inverse problems and applications in medical imaging.
